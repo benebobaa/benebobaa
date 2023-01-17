@@ -10,13 +10,13 @@ Benee</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://github.com/benebobaa/benebobaa" target="blank">digital presence app</a>
+- 🔭 I’m currently working in <a href="https://github.com/benebobaa/benebobaa" target="blank">My Inisiative Project</a>
 
-- 🌱 I’m currently Working on Mobile App(Flutter)
+- 🌱 I’m currently Working on Mobile App (Flutter) 
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Iot && Machine Learning <a href="https://github.com/Water-Level-Monitoring" target="blank">My Project WaterLevel</a>
+- 🌱 I’m currently learning Iot & Machine Learning <a href="https://github.com/Water-Level-Monitoring" target="blank">My Project WaterLevel</a>
 
 - 💬 Ask me about **Flutter and IoT(Arduino)**
 
