@@ -24,12 +24,12 @@ Benee</a></h1>
 
 - 📄 Know about my experiences <a href="linkedin.com/in/benediktus-satriya" target="blank">LinkedIn</a>
 <br/>
-<h3 align="center" > <img src="linkedin.com/in/benediktus-satriya" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://linkedin.com/in/benediktus-satriya" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="linkedin.com/in/benediktus-satriya">
+        <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/benediktus-satriya">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/benebobaa/benebobaa">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
