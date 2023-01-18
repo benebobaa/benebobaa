@@ -12,9 +12,9 @@ Benee</a></h1>
 
 - 🔭 I’m currently working in <a href="https://github.com/benebobaa/benebobaa" target="blank">My Inisiative Project</a>
 
-- 🌱 I’m currently Working on Mobile App (Flutter) 
+- 🌱 I’m currently Working on Mobile App (Flutter) Project
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing, partime, and fulltime contract.
 
 - 🌱 I’m currently learning Iot & Machine Learning <a href="https://github.com/Water-Level-Monitoring" target="blank">My Project WaterLevel</a>
 
