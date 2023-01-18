@@ -22,9 +22,9 @@ Benee</a></h1>
 
 - 📫 How to reach me **beneditus@students.amikom.ac.id**
 
-- 📄 Know about my experiences <a href="linkedin.com/in/benediktus-satriya" target="blank">LinkedIn</a>
+- 📄 Know about my experiences <a href="https://linkedin.com/in/benediktus-satriya" target="blank">LinkedIn</a>
 <br/>
-<h3 align="center" > <img src="https://linkedin.com/in/benediktus-satriya" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://i.pinimg.com/originals/1e/3e/37/1e3e3738d81b9db4f6b6505b236a996a.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
