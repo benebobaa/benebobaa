@@ -20,7 +20,7 @@ Benee</a></h1>
 
 - 💬 Ask me about **Flutter and IoT(Arduino)**
 
-- 📫 How to reach me **beneditus@students.amikom.ac.id**
+- 📫 How to reach me **benediktus@students.amikom.ac.id**
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/benediktus-satriya" target="blank">LinkedIn</a>
 <br/>
