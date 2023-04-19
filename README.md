@@ -12,7 +12,7 @@ Benee</a></h1>
 
 - 🔭 I’m currently working in <a href="https://github.com/benebobaa/benebobaa" target="blank">My Inisiative Project</a>
 
-- 🌱 I’m currently Working on Mobile App (Flutter) Project
+- 🌱 I’m currently Working on Suitmedia as Mobile Developer
 
 - 🤝 I’m available for freelancing, partime, and fulltime contract.
 
