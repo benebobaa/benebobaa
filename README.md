@@ -12,7 +12,7 @@ Benee</a></h1>
 
 - 🔭 I’m currently working in <a href="https://github.com/benebobaa/benebobaa" target="blank">My Inisiative Project</a>
 
-- 🌱 I’m currently Working on Suitmedia as Mobile Developer
+- 🌱 I’m currently Working on **Suitmedia** as Mobile Developer
 
 - 🤝 I’m available for freelancing, partime, and fulltime contract.
 
@@ -20,7 +20,7 @@ Benee</a></h1>
 
 - 💬 Ask me about **Flutter and IoT(Arduino)**
 
-- 📫 How to reach me **benediktus@students.amikom.ac.id**
+- 📫 How to reach me **bensatriya3@gmail.com**
 
 - 📄 Know about my experiences <a href="https://linkedin.com/in/benediktus-satriya" target="blank">LinkedIn</a>
 <br/>
