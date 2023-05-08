@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://benebobaa.github.io/portofolio-tailwind-css/" target="blank">
 Benee</a></h1>
-<h3 align="center">A passionate Mobile App developer, IoT, and Machine Learning </h3>
+<h3 align="center">A passionate Mobile App Development, IoT, and Machine Learning </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benediktusmukti&label=Profile%20views&color=0e75b6&style=flat" alt="benediktusmukti" /> </p>
 
@@ -11,7 +11,7 @@ Benee</a></h1>
 </a>
 
 
-- 🌱 I’m currently Working on **Suitmedia** as Mobile Developer
+- 🌱 I’m currently Working at **Suitmedia** as Mobile Developer
 
 - 🤝 I’m available for freelancing, partime, and fulltime contract.
 
