@@ -25,6 +25,13 @@ Benee</a></h1>
 <br/>
 <h3 align="center" > <img src="https://i.pinimg.com/originals/1e/3e/37/1e3e3738d81b9db4f6b6505b236a996a.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<p align="left">
+<a href="https://github.com/cherzs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=benebobaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=benebobaa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
