@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://benebobaa.github.io/portofolio-tailwind-css/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://beneboba.me" target="blank">
 Benee</a></h1>
 <h3 align="center">Focus on Go and Flutter </h3>
 
