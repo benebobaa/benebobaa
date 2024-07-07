@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://beneboba.me" target="blank">
-Benee</a></h1>
+Software Engineer</a></h1>
 <h3 align="center">Focus on Go and Flutter </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benediktusmukti&label=Profile%20views&color=0e75b6&style=flat" alt="benediktusmukti" /> </p>
