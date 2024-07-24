@@ -12,8 +12,9 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://i.pinimg.com/originals/1e/3e/37/1e3e3738d81b9db4f6b6505b236a996a.gif"
-       alt="snake" /></a>
+  <a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
 </div>
 
 
