@@ -26,21 +26,31 @@ jobs:
           python3 << 'EOF'
           import json
           import re
+          from datetime import datetime
           
           # Read Medium posts
           with open('medium.json', 'r') as f:
               data = json.load(f)
           
-          # Generate markdown list
-          posts_md = ""
+          # Generate HTML list
+          posts_html = ""
           if 'items' in data:
               for item in data['items'][:5]:  # Latest 5 posts
                   title = item.get('title', 'Untitled')
                   link = item.get('link', '#')
                   pub_date = item.get('pubDate', '')
-                  # Extract date only (YYYY-MM-DD)
-                  date = pub_date.split()[0] if pub_date else ''
-                  posts_md += f"- [{title}]({link}) - *{date}*\n"
+                  
+                  # Parse and format date
+                  try:
+                      date_obj = datetime.strptime(pub_date.split()[0], '%Y-%m-%d')
+                      formatted_date = date_obj.strftime('%b %d, %Y')
+                  except:
+                      formatted_date = pub_date.split()[0] if pub_date else ''
+                  
+                  posts_html += f'    <li><a href="{link}">{title}</a> <sub>• {formatted_date}</sub></li>\n'
+          
+          # Wrap in ul tags
+          posts_section = f"<ul>\n{posts_html}  </ul>"
           
           # Read current README
           with open('README.md', 'r') as f:
@@ -48,7 +58,7 @@ jobs:
           
           # Replace content between markers
           pattern = r'(<!-- MEDIUM-POSTS:START -->).*?(<!-- MEDIUM-POSTS:END -->)'
-          replacement = f'\\1\n{posts_md}\\2'
+          replacement = f'\\1\n  {posts_section}\n  \\2'
           new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
           
           # Write updated README
