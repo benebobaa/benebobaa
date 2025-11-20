@@ -72,8 +72,8 @@
   <br />
 
   <!-- Latest Medium Posts -->
-  <h3 align="left">✍️ Latest from my Blog</h3>
-  <div align="left">
+  <h3>✍️ Latest from my Blog</h3>
+  <div style="text-align: left; max-width: 700px; margin: 0 auto;">
     <!-- MEDIUM-POSTS:START -->
 - [CI/CD GitOps with Kubernetes and FluxCD](https://medium.com/@bensatriya3/ci-cd-gitops-with-kubernetes-and-fluxcd-71433b67d178?source=rss-2742753c73cc------2) - *2025-03-07*
 - [Deploy React/Vue.js Web Apps on a Single VM with Docker &amp; Nginx](https://medium.com/@bensatriya3/deploy-react-vue-js-web-apps-on-a-single-vm-with-docker-nginx-12cd4f103322?source=rss-2742753c73cc------2) - *2024-12-27*
