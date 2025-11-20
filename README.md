@@ -75,12 +75,14 @@
   <h3>✍️ Latest from my Blog</h3>
   <div style="text-align: left; max-width: 700px; margin: 0 auto;">
     <!-- MEDIUM-POSTS:START -->
-- [CI/CD GitOps with Kubernetes and FluxCD](https://medium.com/@bensatriya3/ci-cd-gitops-with-kubernetes-and-fluxcd-71433b67d178?source=rss-2742753c73cc------2) - *2025-03-07*
-- [Deploy React/Vue.js Web Apps on a Single VM with Docker &amp; Nginx](https://medium.com/@bensatriya3/deploy-react-vue-js-web-apps-on-a-single-vm-with-docker-nginx-12cd4f103322?source=rss-2742753c73cc------2) - *2024-12-27*
-- [Building API with Test-Driven Development in Go: A Practical Guide | Part 1](https://medium.com/codex/building-api-with-test-driven-development-in-go-a-practical-guide-part-1-ad56f1535353?source=rss-2742753c73cc------2) - *2024-05-07*
-- [Benchmarking API Performance: Go Fiber vs. Java SpringBoot vs. Express.js](https://medium.com/@bensatriya3/benchmarking-api-performance-go-fiber-vs-java-springboot-vs-express-js-28679a8c8dc8?source=rss-2742753c73cc------2) - *2024-04-07*
-- [Efficient API Data Handling in Flutter: Implementing Pagination with Provider](https://medium.com/@bensatriya3/efficient-api-data-handling-in-flutter-implementing-pagination-with-provider-772462f95a18?source=rss-2742753c73cc------2) - *2024-03-26*
-<!-- MEDIUM-POSTS:END -->
+  <ul>
+    <li><a href="https://medium.com/@bensatriya3/ci-cd-gitops-with-kubernetes-and-fluxcd-71433b67d178?source=rss-2742753c73cc------2">CI/CD GitOps with Kubernetes and FluxCD</a> <sub>• Mar 07, 2025</sub></li>
+    <li><a href="https://medium.com/@bensatriya3/deploy-react-vue-js-web-apps-on-a-single-vm-with-docker-nginx-12cd4f103322?source=rss-2742753c73cc------2">Deploy React/Vue.js Web Apps on a Single VM with Docker &amp; Nginx</a> <sub>• Dec 27, 2024</sub></li>
+    <li><a href="https://medium.com/codex/building-api-with-test-driven-development-in-go-a-practical-guide-part-1-ad56f1535353?source=rss-2742753c73cc------2">Building API with Test-Driven Development in Go: A Practical Guide | Part 1</a> <sub>• May 07, 2024</sub></li>
+    <li><a href="https://medium.com/@bensatriya3/benchmarking-api-performance-go-fiber-vs-java-springboot-vs-express-js-28679a8c8dc8?source=rss-2742753c73cc------2">Benchmarking API Performance: Go Fiber vs. Java SpringBoot vs. Express.js</a> <sub>• Apr 07, 2024</sub></li>
+    <li><a href="https://medium.com/@bensatriya3/efficient-api-data-handling-in-flutter-implementing-pagination-with-provider-772462f95a18?source=rss-2742753c73cc------2">Efficient API Data Handling in Flutter: Implementing Pagination with Provider</a> <sub>• Mar 26, 2024</sub></li>
+  </ul>
+  <!-- MEDIUM-POSTS:END -->
   </div>
 
   <br />
