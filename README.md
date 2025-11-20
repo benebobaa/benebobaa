@@ -12,7 +12,7 @@
   </h3>
   
   <p style="max-width: 600px; color: #666; line-height: 1.8;">
-    I am a Full Stack Engineer with a passion for <b>spatial interfaces</b> and <b>high-performance web apps</b>. <br/>
+    I am a Software Engineer with a passion for <b>spatial interfaces</b> and <b>high-performance web apps</b>. <br/>
     Currently focused on simplifying cloud infrastructure and creating premium user experiences.
   </p>
 
@@ -86,7 +86,7 @@
     <a href="https://medium.com/@bensatriya3">
       <img src="https://img.shields.io/badge/Medium-Read_Articles-black?style=social&logo=medium" />
     </a>
-    <a href="https://www.linkedin.com/in/bensatriya/">
+    <a href="https://www.linkedin.com/in/benediktus-satriya/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" />
     </a>
   </div>
