@@ -23,55 +23,45 @@ jobs:
           
       - name: Update README
         run: |
-          python3 << 'EOF'
+          python3 << 'SCRIPT_END'
           import json
           import re
           from datetime import datetime
           
-          # Read Medium posts
           with open('medium.json', 'r') as f:
               data = json.load(f)
           
-          # Generate HTML list with enhanced styling
           posts_html = ""
           if 'items' in data:
-              for idx, item in enumerate(data['items'][:5], 1):  # Latest 5 posts
+              for idx, item in enumerate(data['items'][:5], 1):
                   title = item.get('title', 'Untitled')
                   link = item.get('link', '#')
                   pub_date = item.get('pubDate', '')
                   
-                  # Parse and format date
                   try:
                       date_obj = datetime.strptime(pub_date.split()[0], '%Y-%m-%d')
                       formatted_date = date_obj.strftime('%b %d, %Y')
                   except:
                       formatted_date = pub_date.split()[0] if pub_date else ''
                   
-                  # Create styled list item
-                  posts_html += f'''    <li style="margin-bottom: 12px;">
-      <a href="{link}" style="font-weight: 500; color: #0969da; text-decoration: none;">{title}</a>
-      <br/>
-      <sub style="color: #656d76;">📅 {formatted_date}</sub>
-    </li>
-'''
+                  posts_html += '    <li style="margin-bottom: 12px;">\n'
+                  posts_html += f'      <a href="{link}" style="font-weight: 500; color: #0969da; text-decoration: none;">{title}</a>\n'
+                  posts_html += '      <br/>\n'
+                  posts_html += f'      <sub style="color: #656d76;">📅 {formatted_date}</sub>\n'
+                  posts_html += '    </li>\n'
           
-          # Wrap in styled ul
-          posts_section = f'''<ul style="list-style: none; padding-left: 0;">
-{posts_html}  </ul>'''
+          posts_section = '<ul style="list-style: none; padding-left: 0;">\n' + posts_html + '  </ul>'
           
-          # Read current README
           with open('README.md', 'r') as f:
               readme = f.read()
           
-          # Replace content between markers
           pattern = r'(<!-- MEDIUM-POSTS:START -->).*?(<!-- MEDIUM-POSTS:END -->)'
           replacement = f'\\1\n  {posts_section}\n  \\2'
           new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
           
-          # Write updated README
           with open('README.md', 'w') as f:
               f.write(new_readme)
-          EOF
+          SCRIPT_END
           
       - name: Commit changes
         run: |
