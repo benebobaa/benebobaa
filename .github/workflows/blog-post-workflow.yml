@@ -17,4 +17,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM-POSTS"
-          feed_list: "https://medium.com/feed/@bensatriya3"
+          feed_list: "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@bensatriya3"
+          template: '$title - $url'
