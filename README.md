@@ -1,1 +1,106 @@
-<div align="center"><h1 style="font-weight: normal;">Hi, I'm [Bene]</h1><p style="color: #888888; font-family: monospace;">// Software Engineer &nbsp;&nbsp; // Creative Technologist &nbsp;&nbsp; // Problem Solver</p><!--THE TERMINAL BIOThis mimics a code snippet for a modern, "hacker" aesthetic.Edit the values inside the quotes to match your skills.--><pre align="left" style="background-color: #f6f8fa; border-radius: 8px; padding: 20px; width: 80%; margin: auto; border: 1px solid #e1e4e8;"><code>const <span style="color: #d73a49;">profile</span> = {<span style="color: #6f42c1;">name</span>: <span style="color: #032f62;">"[Bene]"</span>,<span style="color: #6f42c1;">location</span>: <span style="color: #032f62;">"Currently in [Your City]"</span>,<span style="color: #6f42c1;">code</span>: [<span style="color: #032f62;">"TypeScript"</span>, <span style="color: #032f62;">"Python"</span>, <span style="color: #032f62;">"Go"</span>, <span style="color: #032f62;">"Rust"</span>],<span style="color: #6f42c1;">tools</span>: [<span style="color: #032f62;">"Docker"</span>, <span style="color: #032f62;">"AWS"</span>, <span style="color: #032f62;">"Kubernetes"</span>],<span style="color: #6f42c1;">coffee</span>: <span style="color: #005cc5;">true</span>};</code></pre><!--MONOCHROME TECH STACKUsing the 'for-the-badge' style in black/white for a unified look.You can add more by changing the name (e.g. replacing 'React' with 'Vue').--><p><img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-000000%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/React-000000%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-000000%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Go-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-000000%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" /></p><!--MINIMALIST STATS'theme=transparent' makes it look clean in both Light and Dark modes.'hide_border=true' removes the boxy look.--><a href="https://github.com/benebobaa"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=benebobaa&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=888&icon_color=555&hide_title=true" /><img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dbenebobaa&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=888&hide_title=true" /></a><!-- FOOTER / SOCIALS --><p><a href="https://twitter.com/[YourTwitterHandle]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-000000%3Fstyle%3Dflat%26logo%3Dx%26logoColor%3Dwhite%26labelColor%3D000000" alt="Twitter" /></a><a href="https://www.google.com/search?q=https://linkedin.com/in/[YourLinkedIn]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-000000%3Fstyle%3Dflat%26logo%3Dlinkedin%26logoColor%3Dwhite%26labelColor%3D000000" alt="LinkedIn" /></a><a href="mailto:[YourEmail]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-000000%3Fstyle%3Dflat%26logo%3Dgmail%26logoColor%3Dwhite%26labelColor%3D000000" alt="Email" /></a></p></div>
+<div align="center">
+  <br />
+  <br />
+  <br />
+
+  # B E N E
+  
+  <samp>S P A T I A L &nbsp; I N T E R F A C E &nbsp; D E S I G N E R</samp>
+
+  <br />
+  <br />
+
+  <p align="center">
+    <samp>
+      ◉ &nbsp; Building <b>Kubeletto</b> &nbsp; &nbsp; 
+      ⌖ &nbsp; Based in <b>San Francisco</b> &nbsp; &nbsp; 
+      ◎ &nbsp; <b>Open to Collab</b>
+    </samp>
+  </p>
+
+  <br />
+  <br />
+</div>
+
+<div align="center">
+  <h3>T E C H N O L O G Y &nbsp; S T A C K</h3>
+  <br />
+  <code>SwiftUI</code> &nbsp; <code>RealityKit</code> &nbsp; <code>Metal</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Go</code>
+  <br />
+  <br />
+  <code>ARKit</code> &nbsp; <code>CoreML</code> &nbsp; <code>React</code> &nbsp; <code>Next.js</code> &nbsp; <code>PostgreSQL</code>
+</div>
+
+<br />
+<br />
+<br />
+
+<div align="center">
+  <h3>S E L E C T E D &nbsp; W O R K</h3>
+</div>
+
+<br />
+
+> **Kubeletto** &nbsp; <code>v2.0</code>
+> <br />
+> *A spatial orchestration layer for the decentralized web. Designed for infinite canvas.*
+> <br />
+> `Go` `Kubernetes` `SwiftUI`
+> <br />
+> [View Project ↗](#)
+
+<br />
+
+> **Lumina UI**
+> <br />
+> *Glassmorphism design system for next-gen web applications. Pure CSS & Motion.*
+> <br />
+> `CSS` `React` `Framer Motion`
+> <br />
+> [View Project ↗](#)
+
+<br />
+
+> **Aether**
+> <br />
+> *Ambient audio engine for focus and deep work. Spatial audio integration.*
+> <br />
+> `Swift` `AVFoundation`
+> <br />
+> [View Project ↗](#)
+
+<br />
+<br />
+<br />
+
+<div align="center">
+  <h3>C O N N E C T</h3>
+  <br />
+  <a href="https://github.com/benebobaa">
+    <code>&nbsp; ⎈ GitHub &nbsp;</code>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://linkedin.com">
+    <code>&nbsp; ◈ LinkedIn &nbsp;</code>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://twitter.com">
+    <code>&nbsp; ❖ X / Twitter &nbsp;</code>
+  </a>
+  &nbsp; &nbsp;
+  <a href="mailto:hello@example.com">
+    <code>&nbsp; ✉ Email &nbsp;</code>
+  </a>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+<div align="center">
+  <samp>
+    Designed for Apple Vision Pro &nbsp; | &nbsp;  &nbsp; | &nbsp; EST 2025
+  </samp>
+</div>
+<br />
