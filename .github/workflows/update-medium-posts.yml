@@ -32,10 +32,10 @@ jobs:
           with open('medium.json', 'r') as f:
               data = json.load(f)
           
-          # Generate HTML list
+          # Generate HTML list with enhanced styling
           posts_html = ""
           if 'items' in data:
-              for item in data['items'][:5]:  # Latest 5 posts
+              for idx, item in enumerate(data['items'][:5], 1):  # Latest 5 posts
                   title = item.get('title', 'Untitled')
                   link = item.get('link', '#')
                   pub_date = item.get('pubDate', '')
@@ -47,10 +47,17 @@ jobs:
                   except:
                       formatted_date = pub_date.split()[0] if pub_date else ''
                   
-                  posts_html += f'    <li><a href="{link}">{title}</a> <sub>• {formatted_date}</sub></li>\n'
+                  # Create styled list item
+                  posts_html += f'''    <li style="margin-bottom: 12px;">
+      <a href="{link}" style="font-weight: 500; color: #0969da; text-decoration: none;">{title}</a>
+      <br/>
+      <sub style="color: #656d76;">📅 {formatted_date}</sub>
+    </li>
+'''
           
-          # Wrap in ul tags
-          posts_section = f"<ul>\n{posts_html}  </ul>"
+          # Wrap in styled ul
+          posts_section = f'''<ul style="list-style: none; padding-left: 0;">
+{posts_html}  </ul>'''
           
           # Read current README
           with open('README.md', 'r') as f:
