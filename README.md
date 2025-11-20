@@ -1,1 +1,55 @@
-<div align="center"><!-- HERO SECTION: Floating Typography --><br /><br /><h1 style="font-weight: 900; letter-spacing: -2px; font-size: 60px;">&nbsp;A L E X &nbsp; D O E&nbsp;</h1><p style="font-weight: 300; letter-spacing: 4px; color: #86868b;">SPATIAL INTERFACE ENGINEER</p><br /><!-- STATUS PANE: Glass Bar --><!-- Uses a code block for the dark grey background 'glass' effect --><code>&nbsp;&nbsp;◉ &nbsp;FOCUSING :: <b>SWIFTUI & METAL</b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;∿ &nbsp;LISTENING :: <b>AMBIENT FLOW</b>&nbsp;&nbsp;</code><br /><br /><br /><!-- SKILLS SECTION: Floating Glass Pills --><!-- Minimalist monochrome badges acting as glass lozenges --><img src="https://www.google.com/search?q=https://img.shields.io/badge/Swift-1d1d1f%3Fstyle%3Dflat%26logo%3Dswift%26logoColor%3Dwhite%26labelColor%3D1d1d1f" height="25" />  <img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-1d1d1f%3Fstyle%3Dflat%26logo%3Dtypescript%26logoColor%3Dwhite%26labelColor%3D1d1d1f" height="25" />  <img src="https://www.google.com/search?q=https://img.shields.io/badge/React_XR-1d1d1f%3Fstyle%3Dflat%26logo%3Dreact%26logoColor%3Dwhite%26labelColor%3D1d1d1f" height="25" />  <img src="https://www.google.com/search?q=https://img.shields.io/badge/Three.js-1d1d1f%3Fstyle%3Dflat%26logo%3Dthree.js%26logoColor%3Dwhite%26labelColor%3D1d1d1f" height="25" />  <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-1d1d1f%3Fstyle%3Dflat%26logo%3Dpython%26logoColor%3Dwhite%26labelColor%3D1d1d1f" height="25" /><br /><br /><br /><!-- PROJECTS SECTION: Spatial Cards --><!-- Using a borderless table to create a grid of "Windows" --><table><tr><td align="center" width="300"><br /><img src="https://www.google.com/search?q=https://img.shields.io/badge/visionOS-000000%3Fstyle%3Dflat-square%26logo%3Dapple%26logoColor%3Dwhite" height="10" /><br /><h3><code>&nbsp; L U M A &nbsp;</code></h3><sub>A spatial photography tool for glass interfaces.</sub><br /><br /><a href="#">Explore ↗</a><br /><br /></td><td align="center" width="300"><br /><img src="https://www.google.com/search?q=https://img.shields.io/badge/CoreML-000000%3Fstyle%3Dflat-square%26logo%3Dapple%26logoColor%3Dwhite" height="10" /><br /><h3><code>&nbsp; V O I D &nbsp;</code></h3><sub>Zero-gravity layout engine for web apps.</sub><br /><br /><a href="#">Explore ↗</a><br /><br /></td></tr><tr><td align="center" width="300"><br /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Hardware-000000%3Fstyle%3Dflat-square%26logo%3Darduino%26logoColor%3Dwhite" height="10" /><br /><h3><code>&nbsp; H A P T I C &nbsp;</code></h3><sub>Feedback loops for AR gestures.</sub><br /><br /><a href="#">Explore ↗</a><br /><br /></td><td align="center" width="300"><br /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Design-000000%3Fstyle%3Dflat-square%26logo%3Dfigma%26logoColor%3Dwhite" height="10" /><br /><h3><code>&nbsp; A E T H E R &nbsp;</code></h3><sub>Design system for the spatial web.</sub><br /><br /><a href="#">Explore ↗</a><br /><br /></td></tr></table><br /><br /><br /><!-- CONNECT SECTION: Glass Button with Accent --><a href="mailto:your-email@example.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Start_Collaboration-007AFF%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" height="30" /></a><br /><br /><code>&nbsp;⌘ &nbsp;GITHUB&nbsp;</code>&nbsp;&nbsp;<code>&nbsp;⎈ &nbsp;LINKEDIN&nbsp;</code>&nbsp;&nbsp;<code>&nbsp;⌥ &nbsp;TWITTER&nbsp;</code><br /><br /><br /><br /><br /><!-- FOOTER: Easter Egg --><sub style="color: #333333; font-size: 10px; letter-spacing: 2px;">DESIGNED FOR APPLE GLASS &nbsp; </sub><br /><br /></div>
+<div align="center">
+
+  <br />
+  <br />
+
+  <h1 style="font-size: 50px; font-weight: bold;">Hi, I'm Ben Satriya ✦</h1>
+  
+  <h3 style="color: #888;">Building <a href="https://kubeletto.com" style="color: #000; text-decoration: none;">Kubeletto</a> &nbsp;|&nbsp; Full Stack Engineer</h3>
+
+  <br />
+
+  <p style="max-width: 600px; font-size: 16px; line-height: 1.6;">
+    I craft polished digital experiences with a focus on simplicity and performance.<br/>
+    Currently revolutionizing Kubernetes management at <b>Kubeletto</b>.
+  </p>
+
+  <br />
+  <br />
+
+  <!-- Tech Stack -->
+  <div style="display: flex; gap: 10px; justify-content: center;">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="25" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="25" />
+  </div>
+
+  <br />
+  <br />
+
+  <!-- Dynamic Stats (Optional, adds a modern touch) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=benebobaa&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=666&icon_color=000" height="150" alt="stats" />
+
+  <br />
+  <br />
+  <br />
+
+  <!-- Social Links -->
+  <a href="https://medium.com/@bensatriya3" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bensatriya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/benebobaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
+
+  <br />
+  <br />
+  <br />
+
+</div>
