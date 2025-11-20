@@ -69,6 +69,25 @@
   <br />
   <br />
 
+  <br />
+  <br />
+
+  <!-- Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/benebobaa/benebobaa/output/github-contribution-grid-snake.svg" alt="snake" />
+
+  <br />
+  <br />
+
+  <!-- Latest Medium Posts -->
+  <h3 align="left">✍️ Latest from my Blog</h3>
+  <div align="left">
+    <!-- MEDIUM-POSTS:START -->
+    <!-- MEDIUM-POSTS:END -->
+  </div>
+
+  <br />
+  <br />
+
   <!-- Footer / Socials -->
   <div style="display: flex; justify-content: center; gap: 20px; opacity: 0.8;">
     <a href="https://medium.com/@bensatriya3">
