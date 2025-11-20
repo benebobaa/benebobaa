@@ -8,7 +8,7 @@
 
   <!-- Intro / Bio -->
   <h3 style="font-weight: normal;">
-    Building <a href="https://kubeletto.com" style="color: #000; text-decoration: none; font-weight: bold; border-bottom: 2px solid #000;">Kubeletto</a> ✦ Redefining Kubernetes Management
+    Building <a href="https://kubeletto.com" style="color: #000; text-decoration: none; font-weight: bold; border-bottom: 2px solid #000;">Kubeletto</a> &nbsp;|&nbsp; <a href="https://benelabs.fun" style="color: #000; text-decoration: none; font-weight: bold; border-bottom: 2px solid #000;">benelabs.fun</a>
   </h3>
   
   <p style="max-width: 600px; color: #666; line-height: 1.8;">
@@ -23,16 +23,9 @@
   <table style="border: none; background: transparent;">
     <tr>
       <td width="50%" valign="top" style="border: none;">
-        <h3 align="center">🛠 Tech Stack</h3>
-        <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-          <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <h3 align="center">🛠 Top Languages</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benebobaa&layout=compact&theme=graywhite&hide_border=true&title_color=000&text_color=333" />
         </div>
       </td>
       <td width="50%" valign="top" style="border: none;">
