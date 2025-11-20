@@ -1,0 +1,62 @@
+name: Update Medium Posts
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Fetch Medium Posts
+        run: |
+          curl -s "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@bensatriya3" > medium.json
+          
+      - name: Update README
+        run: |
+          python3 << 'EOF'
+          import json
+          import re
+          
+          # Read Medium posts
+          with open('medium.json', 'r') as f:
+              data = json.load(f)
+          
+          # Generate markdown list
+          posts_md = ""
+          if 'items' in data:
+              for item in data['items'][:5]:  # Latest 5 posts
+                  title = item.get('title', 'Untitled')
+                  link = item.get('link', '#')
+                  pub_date = item.get('pubDate', '')
+                  # Extract date only (YYYY-MM-DD)
+                  date = pub_date.split()[0] if pub_date else ''
+                  posts_md += f"- [{title}]({link}) - *{date}*\n"
+          
+          # Read current README
+          with open('README.md', 'r') as f:
+              readme = f.read()
+          
+          # Replace content between markers
+          pattern = r'(<!-- MEDIUM-POSTS:START -->).*?(<!-- MEDIUM-POSTS:END -->)'
+          replacement = f'\\1\n{posts_md}\\2'
+          new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+          
+          # Write updated README
+          with open('README.md', 'w') as f:
+              f.write(new_readme)
+          EOF
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Medium posts"
+          git push
