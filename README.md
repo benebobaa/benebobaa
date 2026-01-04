@@ -8,7 +8,7 @@
 
   <!-- Intro / Bio -->
   <h3 style="font-weight: normal;">
-    Building <a href="https://kubeletto.com" style="color: #000; text-decoration: none; font-weight: bold; border-bottom: 2px solid #000;">Kubeletto</a> &nbsp;|&nbsp; <a href="https://benelabs.fun" style="color: #000; text-decoration: none; font-weight: bold; border-bottom: 2px solid #000;">benelabs.fun</a>
+    Building <a href="https://kubeletto.com" style="color: #000; text-decoration: none; font-weight: bold; border-bottom: 2px solid #000;">Kubeletto</a> &nbsp;|&nbsp; <a href="https://benelabs.tech" style="color: #000; text-decoration: none; font-weight: bold; border-bottom: 2px solid #000;">benelabs.tech</a>
   </h3>
   
   <p style="max-width: 600px; color: #666; line-height: 1.8;">
