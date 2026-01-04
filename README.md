@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Dynamic Header with Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=250&section=header&text=Ben%20Satriya&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Architecting%20Next-Gen%20DevTools&descAlignY=65&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=250&section=header&text=Bene&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Architecting%20Next-Gen%20DevTools&descAlignY=65&descAlign=50&fontColor=ffffff" width="100%" />
 
   <br />
   <br />
