@@ -12,7 +12,7 @@
   </h3>
   
   <p style="max-width: 600px; color: #666; line-height: 1.8;">
-    I am a Software Engineer with a passion for <b>spatial interfaces</b> and <b>high-performance web apps</b>. <br/>
+    I am a Software Engineer
     Currently focused on simplifying cloud infrastructure and creating premium user experiences.
   </p>
 
