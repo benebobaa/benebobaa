@@ -77,6 +77,11 @@
     <!-- MEDIUM-POSTS:START -->
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 12px;">
+      <a href="https://medium.com/@bensatriya3/kubeletto-the-free-kubernetes-powered-way-to-deploy-your-app-in-minutes-9804579748ef?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">Kubeletto: The Free, Kubernetes-Powered Way to Deploy Your App in Minutes</a>
+      <br/>
+      <sub style="color: #656d76;">📅 Jul 12, 2026</sub>
+    </li>
+    <li style="margin-bottom: 12px;">
       <a href="https://medium.com/@bensatriya3/ci-cd-gitops-with-kubernetes-and-fluxcd-71433b67d178?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">CI/CD GitOps with Kubernetes and FluxCD</a>
       <br/>
       <sub style="color: #656d76;">📅 Mar 07, 2025</sub>
@@ -95,11 +100,6 @@
       <a href="https://medium.com/@bensatriya3/benchmarking-api-performance-go-fiber-vs-java-springboot-vs-express-js-28679a8c8dc8?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">Benchmarking API Performance: Go Fiber vs. Java SpringBoot vs. Express.js</a>
       <br/>
       <sub style="color: #656d76;">📅 Apr 07, 2024</sub>
-    </li>
-    <li style="margin-bottom: 12px;">
-      <a href="https://medium.com/@bensatriya3/efficient-api-data-handling-in-flutter-implementing-pagination-with-provider-772462f95a18?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">Efficient API Data Handling in Flutter: Implementing Pagination with Provider</a>
-      <br/>
-      <sub style="color: #656d76;">📅 Mar 26, 2024</sub>
     </li>
   </ul>
   <!-- MEDIUM-POSTS:END -->
