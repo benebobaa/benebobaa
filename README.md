@@ -82,7 +82,7 @@
       <sub style="color: #656d76;">📅 Jul 12, 2026</sub>
     </li>
     <li style="margin-bottom: 12px;">
-      <a href="https://medium.com/@bensatriya3/ci-cd-gitops-with-kubernetes-and-fluxcd-71433b67d178?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">CI/CD GitOps with Kubernetes and FluxCD</a>
+      <a href="https://blog.devops.dev/ci-cd-gitops-with-kubernetes-and-fluxcd-71433b67d178?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">CI/CD GitOps with Kubernetes and FluxCD</a>
       <br/>
       <sub style="color: #656d76;">📅 Mar 07, 2025</sub>
     </li>
@@ -97,7 +97,7 @@
       <sub style="color: #656d76;">📅 May 07, 2024</sub>
     </li>
     <li style="margin-bottom: 12px;">
-      <a href="https://medium.com/@bensatriya3/benchmarking-api-performance-go-fiber-vs-java-springboot-vs-express-js-28679a8c8dc8?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">Benchmarking API Performance: Go Fiber vs. Java SpringBoot vs. Express.js</a>
+      <a href="https://blog.devops.dev/benchmarking-api-performance-go-fiber-vs-java-springboot-vs-express-js-28679a8c8dc8?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">Benchmarking API Performance: Go Fiber vs. Java SpringBoot vs. Express.js</a>
       <br/>
       <sub style="color: #656d76;">📅 Apr 07, 2024</sub>
     </li>
