@@ -76,6 +76,31 @@
   <div style="text-align: left; max-width: 700px; margin: 0 auto;">
     <!-- MEDIUM-POSTS:START -->
   <ul style="list-style: none; padding-left: 0;">
+    <li style="margin-bottom: 12px;">
+      <a href="https://medium.com/@bensatriya3/kubeletto-the-free-kubernetes-powered-way-to-deploy-your-app-in-minutes-9804579748ef?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">Kubeletto: The Free, Kubernetes-Powered Way to Deploy Your App in Minutes</a>
+      <br/>
+      <sub style="color: #656d76;">📅 Jul 12, 2026</sub>
+    </li>
+    <li style="margin-bottom: 12px;">
+      <a href="https://blog.devops.dev/ci-cd-gitops-with-kubernetes-and-fluxcd-71433b67d178?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">CI/CD GitOps with Kubernetes and FluxCD</a>
+      <br/>
+      <sub style="color: #656d76;">📅 Mar 07, 2025</sub>
+    </li>
+    <li style="margin-bottom: 12px;">
+      <a href="https://medium.com/@bensatriya3/deploy-react-vue-js-web-apps-on-a-single-vm-with-docker-nginx-12cd4f103322?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">Deploy React/Vue.js Web Apps on a Single VM with Docker &amp; Nginx</a>
+      <br/>
+      <sub style="color: #656d76;">📅 Dec 27, 2024</sub>
+    </li>
+    <li style="margin-bottom: 12px;">
+      <a href="https://medium.com/codex/building-api-with-test-driven-development-in-go-a-practical-guide-part-1-ad56f1535353?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">Building API with Test-Driven Development in Go: A Practical Guide | Part 1</a>
+      <br/>
+      <sub style="color: #656d76;">📅 May 07, 2024</sub>
+    </li>
+    <li style="margin-bottom: 12px;">
+      <a href="https://blog.devops.dev/benchmarking-api-performance-go-fiber-vs-java-springboot-vs-express-js-28679a8c8dc8?source=rss-2742753c73cc------2" style="font-weight: 500; color: #0969da; text-decoration: none;">Benchmarking API Performance: Go Fiber vs. Java SpringBoot vs. Express.js</a>
+      <br/>
+      <sub style="color: #656d76;">📅 Apr 07, 2024</sub>
+    </li>
   </ul>
   <!-- MEDIUM-POSTS:END -->
   </div>
